@@ -452,7 +452,7 @@ else : print("Ejecucion exitosa\n")
 
 print('\n----------------------Analizador Semantico----------------------\n\n')
 
-# IMPRESION DEL RESULTADO DE LA EJECUCION
+# IMPRESION DEL RESULTADO DE LA EJECUCION #
 print(tipo_salida[0])
 
 print("\n\n")
